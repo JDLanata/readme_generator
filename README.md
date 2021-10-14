@@ -1,8 +1,10 @@
-# ONe 
+# README generator
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-   sdf
+By using the inquirer NPM package the user is given a series of prompts for sections that are normally inside a standard README document. The user then answers these prompts with the information that they want placed on the page. The program then places the information into the sections it was assigned to.
 
 ## Table of Contents 
 
@@ -11,41 +13,59 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Contribute](#contribute)
+- [Tests](#tests)
+- [Screenshots](#screenshots)
 - [Contact](#contact)
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+After cloning the GitHub file, make sure to install the inquirer NPM package so that it will run properly in the terminal/command prompt
 
+---
 ## Usage
 
-sdf
-
-## Credits
-
-sdf
-
-## License
-
+The project is designed to be a quick and easy way to create README files
 
 
 ---
+## Credits
 
-## Features
-
-If your project has a lot of features, list them here.
+Joe and the TA's helped by answering questions and debugging. 
 
 
-## How to Contribute
+---
+## License
 
-sdf
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+---
+## Contribute
+How to Contribute
+
+At the moment there is no more need for further contributions
+
+---
 ## Tests
 
-sdf
+There are no tests for this project
 
-##Contact
-https://github.com/sd
-https://www.linkedin.com/in/fssdf/
-Email: sdf
+---
+
+## Screenshots 
+
+![readme_generator](https://user-images.githubusercontent.com/87950670/137407443-9bc002a6-c95f-455e-9598-6abc25eabea1.png)
+
+
+![readme_generator_file](https://user-images.githubusercontent.com/87950670/137408403-3eede262-14e8-456e-ae07-a888a595ce0a.png)
+
+
+--
+## Contact
+
+GitHub: https://github.com/JDLanata
+
+LinkedIn: https://www.linkedin.com/in/jdlanata
+
+Email: JuanDL456@gmail.com
 

@@ -5,7 +5,7 @@ ${data.license}
 
 ## Description
 
-   ${data.description}
+${data.description}
 
 ## Table of Contents 
 
@@ -14,46 +14,53 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [Contact](#contact)
+- [Contribute](#contribute)
 - [Tests](#tests)
-- [Contribute](#how_to_contribute)
+- [Screenshots](#screenshots)
+- [Contact](#contact)
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+${data.install}
 
+---
 ## Usage
 
 ${data.usage}
 
+
+---
 ## Credits
 
 ${data.credit}
 
+
+---
 ## License
 
 ${data.license}
 
 ---
-
-## Features
-
-If your project has a lot of features, list them here.
-
-
-## How to Contribute
+## Contribute
+How to Contribute
 
 ${data.contribution}
 
+---
 ## Tests
 
 ${data.tests}
 
+---
+
+## Screenshots 
+
+--
 ## Contact
 
-https://github.com/${data.gitHub}
+GitHub: https://github.com/${data.gitHub}
 
-https://www.linkedin.com/in/${data.linkedIn}/
+LinkedIn: https://www.linkedin.com/in/${data.linkedIn}
 
 Email: ${data.email}
 
