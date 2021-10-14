@@ -31,7 +31,7 @@ function userPromt() {
         {
             type: 'input',
             name: 'usage',
-            message: 'What is your GitHub URL?',
+            message: 'What is this project used for?',
             
         },
         {
@@ -68,7 +68,7 @@ function userPromt() {
             type: 'checkbox',
             name:'license',
             message:'What licenses would you like to add?',
-            choice:['Modzilla','MIT', 'GNU']
+            choices:['Modzilla','MIT', 'GNU']
             
             
         },
@@ -87,3 +87,5 @@ function userPromt() {
         })
     })
 }
+
+userPromt();
